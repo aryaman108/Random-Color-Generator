@@ -1,0 +1,12 @@
+.div{
+    height: 100px;
+    width: 200px;
+    border: 1px solid black;
+    text-align: center;
+    position: relative;
+    left: 43%;
+}
+
+*{
+    text-align: center;
+}
